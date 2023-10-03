@@ -8,6 +8,18 @@
     weight: 5%;
 }
 
+.pai {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+nave li {
+    display: inline;
+    padding: 20px;
+}
+
 body {
     background-color: aquamarine;
 }
