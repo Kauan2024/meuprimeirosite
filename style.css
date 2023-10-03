@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+.logo {
+    width: 5%;
+    weight: 5%;
+}
+
 body {
     background-color: aquamarine;
 }
